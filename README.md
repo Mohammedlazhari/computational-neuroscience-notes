@@ -201,10 +201,10 @@ jupyter==1.0.0
 
 ### Key Talking Points for Interviews
 
-1. **"My TCN finding isn't just an ML result — it's a hypothesis about cortical temporal integration.""**
-2. **"Predictive coding isn't a metaphor — I implemented the dual-model loop and it works for sensor validation.""**
-3. **"The generalization gap in DL mirrors the overfitting problem brains solve — TCN's inductive bias is the answer.""**
-4. **"I want to move from engineering analogues to normative models tested against neural data.""**
+1. **"My TCN finding isn't just an ML result — it's a hypothesis about cortical temporal integration."**
+2. **"Predictive coding isn't a metaphor — I implemented the dual-model loop and it works for sensor validation."**
+3. **"The generalization gap in DL mirrors the overfitting problem brains solve — TCN's inductive bias is the answer."**
+4. **"I want to move from engineering analogues to normative models tested against neural data."**
 
 ---
 
